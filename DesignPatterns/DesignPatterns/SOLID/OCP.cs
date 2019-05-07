@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ *Classes should be open for extension but closed for modification
+ *
+ */
+using System;
 using System.Collections.Generic;
 using static System.Console;
 

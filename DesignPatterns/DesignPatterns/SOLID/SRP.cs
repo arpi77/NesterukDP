@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+A class should only have one reason to change
+Separation of concerns - different classes handling different, independent tasks/problems 
+*/
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;

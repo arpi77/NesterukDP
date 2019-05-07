@@ -1,4 +1,7 @@
-﻿using static System.Console;
+﻿/*
+ * You should be able to substitute a base type for a subtype
+ */
+using static System.Console;
 
 namespace DotNetDesignPatternDemos.SOLID.LiskovSubstitutionPrinciple
 {
